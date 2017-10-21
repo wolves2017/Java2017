@@ -4,9 +4,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 import java.util.ArrayList;
-import java.util.Comparator;
 import java.util.Date;
-import java.util.Optional;
 import java.util.stream.Stream;
 import java.io.BufferedReader;
 import java.io.FileReader;
@@ -20,7 +18,7 @@ public class Challenge  {
 
   public static void main(String[] args) {
 
-    String csvFile = "/Users/selvakumarkuppusamy/Java2017/names1.txt";
+    String csvFile = "names.txt";
     BufferedReader br = null;
     String line = "";
     String cvsSplitBy = ",";

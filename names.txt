@@ -1,5 +1,3 @@
-# Name, Surname, Date of Birth, Country, City, Gender, 
-
 Paris, Apostolopoulos, 01/07/1980, Greece, Athens, Male
 Dionisis, Dimakopoulos, 01/06/1976, Greece, Patras, Male
 John, Consta, 01/07/1990, UK, London, Male
